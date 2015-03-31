@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>HDP Ticketing Visualization 1</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<center>
+<h1>Stacked Bar Chart</h1>
+</center>
+
+<h2>Drilldown display of Count of Department Tickets by Year and Month</h2>
+<h3>Step Two</h3>
+<h4>Selection of either line or bar chart</h4>
+<h4>Selection of year</h4>
+
+<select id="chartType">
+    <option value="">-select chart type-</option>  
+    <option value="line">line</option>
+    <option value="bar">bar</option>
+</select>
+
+<select id="year">
+    <option value="">-select year-</option>
+    <option value="2007">2007</option>
+    <option value="2008">2008</option>
+    <option value="2009">2009</option>
+    <option value="2010">2010</option>
+    <option value="2011">2011</option>
+    <option value="2012">2012</option>
+    <option value="2013">2013</option>
+</select>
+
+<script src="step2_drop_down_js.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 620px; max-width:880px; height: 400px; margin: 0 auto;"  class="ChartBox" ></div>
+
+
+</head>
+
+<body>
+
+
+
+</body>
+
+</html>

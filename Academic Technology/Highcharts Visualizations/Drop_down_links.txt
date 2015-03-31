@@ -1,0 +1,64 @@
+SPRING 2015 DOCUMENTATION LINKS
+
+WEB VISUALIZATIONS
+
+===========================================================================================
+
+jQuery dropdown:  
+    http://api.jquery.com/selected-selector/ 
+
+    Simple JSFiddle:  http://jsfiddle.net/sELst/25/
+    Stack overflow:  http://stackoverflow.com/questions/26821848/update-chart-based-on-dropdown-selection-javascript
+    Stack overflow:  http://stackoverflow.com/questions/25620157/highcharts-change-chart-type-on-drop-down-jquery
+
+    Ideally:  http://jsfiddle.net/zuXDG/  
+         
+         First step:  http://jsfiddle.net/z2x816bf/2/
+         Stack Overflow:  http://stackoverflow.com/questions/25620157/highcharts-change-chart-type-on-drop-down-jquery 
+
+          Step 2:  http://jsfiddle.net/zuXDG/ 
+          Stack overflow:  http://stackoverflow.com/questions/25620157/highcharts-change-chart-type-on-drop-down-jquery
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HTML: 
+    <id> tag:  http://www.w3schools.com/tags/att_global_id.asp 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Javascript: 
+    Switch Statement:  http://www.w3schools.com/js/js_switch.asp 
+    For Loop:  http://www.w3schools.com/js/js_loop_for.asp 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Highcharts:  
+    Chart.yAxis:  http://api.highcharts.com/highcharts --> search for "Chart.yAxis"
+    Series.update:  search in Highcharts API reference search bar
+            http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/series-update/
+            http://jsfiddle.net/gh/get/jquery/1.7.2/highslide-software/highcharts.com/tree/master/samples/highcharts/members/series-hide/
+    Toggle: http://jsfiddle.net/gfNYk/1/ 
+            http://stackoverflow.com/questions/16073403/highcharts-how-to-programmatically-toggle-legend-items-and-determine-which-ite
+    Series.hide():  hide()
+    plotOptions.series.stacking:  http://api.highcharts.com/highcharts#plotOptions.area.stacking 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+File Directory (Spring 2015):  file:///D:/CHRIS_OGNIBENE_FILES/Spring%202015/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ADDITIONAL LINKS
+
+Drop down:  http://tiku.io/questions/4320876/highcharts-change-chart-type-on-drop-down-jquery 
+
+MySQL:  http://dev.mysql.com/doc/refman/5.0/en/example-auto-increment.html
+
+http://www.w3schools.com/sql/sql_primarykey.asp
+
+http://dev.mysql.com/doc/refman/5.1/en/date-and-time-functions.html#function_extract
+
+http://api.highcharts.com/highcharts#xAxis.type
+
+http://stackoverflow.com/questions/7040511/how-to-create-highcharts-using-data-csv-file
+

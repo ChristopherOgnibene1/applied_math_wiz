@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Superposition of 2 Graphs</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<center>
+<h1>Superposition of 2 Graphs</h1>
+</center>
+
+<h2>Step Two</h2>
+
+<br>
+<hr>
+
+<h4>Select Graph type, series, and Overlaying Average Line Series to display</h4>
+
+<p>First Plot</p>
+<select id="chartType">
+    <option value="0">-select chart type-</option>  
+    <option value="line">line chart</option>
+    <option value="bar">bar chart</option>
+    <option value="column">column chart</option>
+    <option value="area">area chart</option>
+    <option value="spline">spline chart</option>
+</select>
+
+<br>
+
+<br>
+<hr>
+
+<h4>Toggle Series On/Off</h4>
+<button id="button1" class="autocompare">Hide 2007 series</button>
+<button id="button2" class="autocompare">Hide 2008 series</button>
+<button id="button3" class="autocompare">Hide 2009 series</button>
+<button id="button4" class="autocompare">Hide 2010 series</button>
+<button id="button5" class="autocompare">Hide 2011 series</button>
+<button id="button6" class="autocompare">Hide 2012 series</button>
+<button id="button7" class="autocompare">Hide 2013 series</button>
+<!--<button id="button8" class="autocompare">Hide Complete Series 1</button>-->
+
+<div id="container" style="min-width: 620px; max-width:880px; height: 400px; margin: 0 auto;"  class="ChartBox" ></div>
+
+
+<br>
+<hr>
+
+
+<p>Second Plot</p>
+<select id="SecondChartType">
+    <option value="0">-select second chart type-</option>  
+    <option value="line">line chart</option>
+    <option value="bar">bar chart</option>
+    <option value="column">column chart</option>
+    <option value="area">area chart</option>
+    <option value="spline">spline chart</option>
+</select>
+
+<h4>Toggle Averages On/Off</h4>
+<button id="button9" class="autocompare">Hide 2007 Average</button>
+<button id="button10" class="autocompare">Hide 2008 Average</button>
+<button id="button11" class="autocompare">Hide 2009 Average</button>
+<button id="button12" class="autocompare">Hide 2010 Average</button>
+<button id="button13" class="autocompare">Hide 2011 Average</button>
+<button id="button14" class="autocompare">Hide 2012 Average</button>
+<button id="button15" class="autocompare">Hide 2013 Average</button>
+<!--<button id="button16" class="autocompare">Hide Average series</button>-->
+
+<div id="container1" style="min-width: 620px; max-width:880px; height: 400px; margin: 0 auto;"  class="ChartBox" ></div>
+
+
+<br>
+<hr>
+
+<script src="Step_3_Superposition.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+
+
+</head>
+
+<body>
+
+</body>
+
+</html>
