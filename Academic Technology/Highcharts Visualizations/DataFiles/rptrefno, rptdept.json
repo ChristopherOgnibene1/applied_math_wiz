@@ -1,0 +1,238 @@
+[
+  {
+    "Department":"ACADEMIC AFFAIRS",
+    "Number of Tickets":12
+  },
+  {
+    "Department":"Academic Grants",
+    "Number of Tickets":60
+  },
+  {
+    "Department":"ACADEMIC LEARNING CENTER",
+    "Number of Tickets":80
+  },
+  {
+    "Department":"ADMISSIONS",
+    "Number of Tickets":29
+  },
+  {
+    "Department":"ADVANCEMENT",
+    "Number of Tickets":10
+  },
+  {
+    "Department":"Advising & Academic Services",
+    "Number of Tickets":13
+  },
+  {
+    "Department":"ALUMNI RELATIONS",
+    "Number of Tickets":175
+  },
+  {
+    "Department":"ATHELETICS",
+    "Number of Tickets":28
+  },
+  {
+    "Department":"Business",
+    "Number of Tickets":2
+  },
+  {
+    "Department":"Business Office",
+    "Number of Tickets":2
+  },
+  {
+    "Department":"CENTER FOR CAREER SERVICES",
+    "Number of Tickets":41
+  },
+  {
+    "Department":"CENTER FOR MULTICULTURAL AFFAIRS",
+    "Number of Tickets":15
+  },
+  {
+    "Department":"COLLEGE ACTIVITIES",
+    "Number of Tickets":4
+  },
+  {
+    "Department":"DYNAMIC RESEARCH AND EVALUATION",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"ECC",
+    "Number of Tickets":3
+  },
+  {
+    "Department":"Event",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"EXECUTIVE AFFAIRS",
+    "Number of Tickets":32
+  },
+  {
+    "Department":"FACULTY",
+    "Number of Tickets":3
+  },
+  {
+    "Department":"FASHION",
+    "Number of Tickets":100
+  },
+  {
+    "Department":"FISHKILL EXTENSION CENTER",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"GCE",
+    "Number of Tickets":17
+  },
+  {
+    "Department":"H.E.O.P.",
+    "Number of Tickets":2
+  },
+  {
+    "Department":"HELP DESK",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"HUMAN RESOURCES",
+    "Number of Tickets":20
+  },
+  {
+    "Department":"IDCP",
+    "Number of Tickets":9
+  },
+  {
+    "Department":"ILEARN",
+    "Number of Tickets":4
+  },
+  {
+    "Department":"Inst. Research & Planning",
+    "Number of Tickets":2
+  },
+  {
+    "Department":"INTEGRATIVE MAJOR",
+    "Number of Tickets":20
+  },
+  {
+    "Department":"LIBRARY",
+    "Number of Tickets":54
+  },
+  {
+    "Department":"MAP - LdM",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"MARIST INTERNATIONAL PROGRAMS",
+    "Number of Tickets":3
+  },
+  {
+    "Department":"MEDIA CENTER",
+    "Number of Tickets":4
+  },
+  {
+    "Department":"MHEDC",
+    "Number of Tickets":3
+  },
+  {
+    "Department":"MIPO",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"MPA",
+    "Number of Tickets":249
+  },
+  {
+    "Department":"Music",
+    "Number of Tickets":4
+  },
+  {
+    "Department":"OFFICE OF HOUSING AND RESIDENTIAL LIFE",
+    "Number of Tickets":8
+  },
+  {
+    "Department":"OFFICE OF SPECIAL SERVICES",
+    "Number of Tickets":23
+  },
+  {
+    "Department":"OTHER",
+    "Number of Tickets":42
+  },
+  {
+    "Department":"PARALEGAL",
+    "Number of Tickets":5
+  },
+  {
+    "Department":"PHYSICAL PLANT",
+    "Number of Tickets":3
+  },
+  {
+    "Department":"President's Office",
+    "Number of Tickets":10
+  },
+  {
+    "Department":"PUBLIC ADMINISTRATION",
+    "Number of Tickets":11
+  },
+  {
+    "Department":"REGISTRAR",
+    "Number of Tickets":20
+  },
+  {
+    "Department":"ROTC",
+    "Number of Tickets":6
+  },
+  {
+    "Department":"SCHOOL OF COMMUNICATION AND THE ARTS",
+    "Number of Tickets":951
+  },
+  {
+    "Department":"SCHOOL OF COMPUTER SCIENCE AND MATH",
+    "Number of Tickets":1131
+  },
+  {
+    "Department":"SCHOOL OF CONTINUING EDUCATION",
+    "Number of Tickets":75
+  },
+  {
+    "Department":"SCHOOL OF GLOBAL AND PROFESSIONAL PROGRAMS",
+    "Number of Tickets":142
+  },
+  {
+    "Department":"SCHOOL OF LIBERAL ARTS",
+    "Number of Tickets":562
+  },
+  {
+    "Department":"SCHOOL OF MANAGEMENT",
+    "Number of Tickets":1060
+  },
+  {
+    "Department":"SCHOOL OF SCIENCE",
+    "Number of Tickets":447
+  },
+  {
+    "Department":"SCHOOL OF SOCIAL AND BEHAVIORAL SCIENCES",
+    "Number of Tickets":734
+  },
+  {
+    "Department":"SECURITY",
+    "Number of Tickets":3
+  },
+  {
+    "Department":"STUDENT",
+    "Number of Tickets":1472
+  },
+  {
+    "Department":"Temp",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"UPWARD BOUND",
+    "Number of Tickets":9
+  },
+  {
+    "Department":"WDS",
+    "Number of Tickets":1
+  },
+  {
+    "Department":"WRITING PROGRAM AND CENTER",
+    "Number of Tickets":71
+  }
+]
