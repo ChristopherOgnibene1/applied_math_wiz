@@ -135,6 +135,42 @@ def compute_cond_value_at_risk(returns, conf_level, time_horizon):
     rolling_cvar = rolling_mean - conf_quantile_cvar * rolling_stdev
     return rolling_cvar
 
+def compute_portfolio_rolling_risk(rolling_risk, rolling_risk_correlation):
+    """
+    Function computes the rolling risk of a portfolio of assets, either in terms of VaR or CVaR.
+    
+    Inputs:
+    rolling_risk : a DataFrame of rolling risk
+    rolling_risk_correlation : a DataFrame of the computed correlation of moving risk
+    
+    Returns: a 1-column DataFrame of VaR or CVaR
+    """
+    # Assume equal-weighting of assets
+    n_rows = len(rolling_risk.index)
+    n_cols = len(rolling_risk.columns)
+
+    rolling_portfolio_risk = np.zeros(n_rows)
+
+    for rownum in range(0, n_rows):
+        current_row = rolling_risk.iloc[rownum, :]
+    
+        for i in range(0, n_cols):
+            first_term = 0
+            second_term = 0
+        
+            for j in range(0, n_cols):
+                if i == j:
+                    first_term = first_term + current_row[i]**2
+                    second_term = 0
+                else:
+                    first_term = first_term + current_row[i]**2
+                    cor_value = rolling_risk_correlation.iloc[i,j]
+                    second_term = 2 * np.sum(cor_value * current_row[i] * current_row[j])
+    
+        rolling_portfolio_risk[rownum] = np.sqrt(first_term + second_term)
+    
+    rolling_portfolio_risk_result = pd.DataFrame(rolling_portfolio_risk, index=rolling_risk.index)
+    return rolling_portfolio_risk_result
 
 # TEST: "compute_value_at_risk" function (Value-at-Risk)
 T = 10  # Time horizon
